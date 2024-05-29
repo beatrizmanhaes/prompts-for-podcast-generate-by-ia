@@ -8,5 +8,5 @@
 
 ## 📚 Materiais
 
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-97b722a12aa5488995588ddd87c1368a)
+- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-97b722a12aa5488995588ddd87c1368a) (os prompts utilizados estão todos aqui)
 
